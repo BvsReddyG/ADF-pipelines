@@ -1,0 +1,9 @@
+{
+	"name": "UxPoC",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2567b441-dc7a-40c5-870f-cc11bf7e321f",
+		"tenantId": "bc8234bf-1c5c-4317-a29c-e30d620d5409"
+	}
+}
